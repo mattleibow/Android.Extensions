@@ -44,7 +44,9 @@
     <Compile Include="Animations\AnimationListener.cs" />
     <Compile Include="Animations\ReverseInterpolator.cs" />
     <Compile Include="JavaObjectWrapper.cs" />
+    <Compile Include="Views\NonScrollableTouchGestureView.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Views\TouchGestureView.cs" />
     <Compile Include="WebView\EventWebViewClient.cs" />
     <Compile Include="WebView\PageFinishedEventArgs.cs" />
     <Compile Include="WebView\ReceivedErrorEventArgs.cs" />
